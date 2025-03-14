@@ -1,12 +1,12 @@
 # coca-cola
-![](./preview.png)
+![](./img/preview.png)
 
 ## Projeto Coca-Cola
 Interface Coca-Cola
 
 ## Autor
 Nikolas Fernandes
-
+s
 ## Tecnologias
 * HTML
 * CSS
