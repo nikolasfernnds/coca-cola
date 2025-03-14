@@ -1,0 +1,53 @@
+1. O que é um repositório no Git e qual a sua importância?
+É um repositório remoto que você pode acessar seus projetos onde quer que esteja.
+
+2. Qual a função do Git Bash?
+Criar um repositório remoto
+
+3. O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
+Git add adiciona um arquivo ou todos os arquivos no repositório remoto. Git arquivo adiciona um arquivo especifico no repositório e git add . adiciona todos os arquivos no repositório.
+
+4. Por que utilizamos o ponto (.) no comando git add .?
+Para adicionar todos os arquivos da pasta que você está.
+
+5. Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+Git commit serve como uma linha do tempo, para fazer marcações importantes conforme andamento do projeto.
+
+6. Qual a função do comando git push?
+Enviar a atualização do projeto para o repositório remoto.
+
+7. Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
+Para fazer marcações no projeto e tambem deixar salvo no GitHub.
+
+8. Explique a função das tags HTML e como elas estruturam uma página.
+Elas funcionam como uma estrutura para a página que está sendo criada, estruturando tudo como o titulo, imagens, etc.
+
+9. O que são atributos em uma tag HTML e qual a sua função?
+Servem para mudar a tag, como por exemplo o atributo "color" para mudar a cor.
+
+10. O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+Modo para ajudar a escrever codigos com mais facilidade.
+
+11. O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+Ajuda a definir altura e largura de um elemento, usamos no inicio para saber como os elementos ficarão ajustados.
+
+12. Por que é importante utilizar tags semânticas no HTML?
+São tags que passam uma informação com um significado especifico para o conteudo.
+
+13. O que são media queries no CSS e qual a sua função?
+É um módulo que definem expressões, permitindo ajustar visualizacões e uma variedade especifica de dispositivos da saida sem mudar o conteudo.
+
+14. Qual a função do GitHub Pages?
+Criar uma página web para seu repositório.
+
+15. O que é o Flexbox no CSS e para que ele é utilizado?
+Ele permite ajustar os elementos de forma flexivel
+
+16. Qual a diferença entre justify-content e align-items em um container Flexbox?
+Um ajusta no eixo principal e o outro no eixo transversal.
+
+17. Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+Define a capacidade de um item flexivel crescer sem atrapalhar outros itens.
+
+18. Explique a diferença entre flex-direction: column; e flex-direction: row;
+Um ajusta em colunas e o outro em linhas.
